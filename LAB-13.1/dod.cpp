@@ -1,0 +1,8 @@
+#include "dod.h"
+#include "var.h" // підключили зовнішні оголошення змінних
+
+using namespace nsVar;
+
+void nsDod::dod() {
+	a *= (n - n * x) / (n + 1); // доданок домножується на
+}
